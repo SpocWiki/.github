@@ -1,6 +1,6 @@
 # Welcome to SpocWiki
 
-### Building the Framework for Universal, Personal Knowledge-Webs.
+### Building the Framework for universal, personal Knowledge-Webs.
 
 SpocWiki is a collaborative initiative to provide high-quality, shared public **Wiki-Data**. 
 
