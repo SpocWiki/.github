@@ -29,7 +29,7 @@ due to rigid standards, consensus delays, and privacy needs.
 
 ## 🌳 The  `_Standards` Repository
 
-Everything we do is governed by our primary repository: 👉 **[SpocWiki/_Standards](https://github.com/SpocWiki/_Standards)**
+Everything we do is structured by our primary repository: 👉 **[SpocWiki/_Standards](https://github.com/SpocWiki/_Standards)**
 
 This repository contains the global metadata, best practices, and semantic vocabularies 
 that ensure all SpocWiki repositories remain interoperable and extensible.
@@ -37,7 +37,7 @@ that ensure all SpocWiki repositories remain interoperable and extensible.
 You can retrieve additional, nested Repositories 
 by clicking convenient Shell Commands in the corresponding Folders. 
 
-See the full [[#🌿Repository Tree Structure]] 
+See the full [🌿Repository Tree Structure](#repository-tree-structure) 
 
 ---
 
@@ -100,12 +100,11 @@ SpocWiki is a shared resource. We welcome Pull Requests that improve data accura
 
 **Ready to start?** Explore the **[\_Standards](https://github.com/SpocWiki/_Standards)** Repository and begin building your knowledge-web today.
 
+## Repository Tree Structure  
 
-## 🌿Repository Tree Structure  
-
-This is the intended Nesting Structure of the current Repositories when all are retrieved. 
-We recommend to retrieve only those needed, because e.g. Obsidian can handle only ca. 30_000 Files. 
-All Leaf Folders (non-bracketed) are Repositories
+Below is the intended Nesting Tree of the current Repositories when all are retrieved. 
+We recommend to retrieve Repositories only when needed, because e.g. Obsidian can handle only ca. 30_000 Files. 
+All Leaf Folders (non-bracketed) in this Diagram are Repositories.
 
 ```
 └── _Standards
