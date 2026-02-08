@@ -8,7 +8,8 @@ We bridge the gap between massive research platforms like Wikipedia
 and the need for structured, private, and maintainable personal knowledge bases.
 
 Whether you are using [Obsidian](https://obsidian.md/), TiddlyWiki, or a custom system, 
-SpocWiki provides the modular building blocks—from geography to the sciences—to jumpstart your own "Memex."
+SpocWiki provides the modular building blocks — from geography to the sciences — 
+to jumpstart your own "[Memex](https://en.wikipedia.org/wiki/Memex)."
 
 ---
 
@@ -26,7 +27,7 @@ due to rigid standards, consensus delays, and privacy needs.
 
 ---
 
-## 🧠 The  `_Standards` Repository
+## 🌳 The  `_Standards` Repository
 
 Everything we do is governed by our primary repository: 👉 **[SpocWiki/_Standards](https://github.com/SpocWiki/_Standards)**
 
@@ -78,7 +79,9 @@ To ensure our data never breaks, we adhere to some conventions in File-Names :
 	- Use `aliases:` in the FrontMatter YAML to improve Searching and provide all ambiguous Matches 
 		- Duplicates in Aliases are encouraged (in reasonable amount). 
 		- Spaces and otherwise disallowed characters are allowed in Aliases 
-		- Multi-lingual Aliases in any script are encouraged to improve discoverability 
+		- Multi-lingual Aliases in any script are encouraged to improve discoverability
+    - Central Renames: Renaming can only be done centrally, because all Links need to be updated.
+        - this can only be ensured by handling all Sub-Repositories consistently, which only few Users do. 
 - **Semantic Data:** We use common, readable YAML attributes like `has_time_started` and `aliases` to make data queryable.
     
 
