@@ -7,7 +7,7 @@ SpocWiki is a collaborative initiative to provide high-quality, shared public **
 We bridge the gap between massive research platforms like Wikipedia 
 and the need for structured, private, and maintainable personal knowledge bases.
 
-Whether you are using [Obsidian](https://obsidian.md/), TiddlyWiki, or a custom system, 
+Whether you are using [Obsidian](https://obsidian.md/), [TiddlyWiki](https://de.wikipedia.org/wiki/TiddlyWiki), or a custom system, 
 SpocWiki provides the modular building blocks — from geography to the sciences — 
 to jumpstart your own "[Memex](https://en.wikipedia.org/wiki/Memex)."
 
