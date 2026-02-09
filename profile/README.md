@@ -1,3 +1,6 @@
+---
+icon: 👀
+---
 # Welcome to SpocWiki
 
 ### Building the Framework for Universal, Personal Knowledge-Webs.

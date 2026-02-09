@@ -1,3 +1,6 @@
+---
+icon:
+---
 # Contributing to SpocWiki
 
 Thank you for your interest in contributing! 
