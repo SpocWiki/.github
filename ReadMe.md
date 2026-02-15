@@ -1,1 +1,1 @@
-See [ReadMe](profile/ReadMe.md) 
+see: [profile/README.md](https://github.com/SpocWiki/.github/tree/main/profile/README.md)
